@@ -1,0 +1,19 @@
+h1 {
+    color: #a52a2a;
+}
+
+.middle{
+    text-align:center ;
+}
+
+.heading{
+    background-color:#00ffff;
+    display:flex;
+    justify-content:space-between
+}
+
+.parent{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
